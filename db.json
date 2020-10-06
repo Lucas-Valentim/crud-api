@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "first_name": "Ivonaldo",
+      "last_name": "Soares",
+      "job_title": "Instrutor",
+      "id": 2
+    },
+    {
+      "first_name": "Leonardo",
+      "last_name": "Carvalho",
+      "job_title": "Assistente",
+      "id": 3
+    },
+    {
+      "first_name": "Lucas",
+      "last_name": "Valentim",
+      "job_title": "Marceneiro",
+      "id": 4
+    }
+  ]
+}
